@@ -3,7 +3,7 @@ Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
-# Research Name
+# Research Rails ViewComponents
 
 ![project image](images/research.png)
 
@@ -23,8 +23,8 @@ In this result of this research maybe rely the solution or a way for **Obras** i
 * [3] [**RR 461: Rethinking the View Layer with Components** with Joel Hawksley](https://devchat.tv/ruby-rogues/rr-461-rethinking-the-view-layer-with-components-with-joel-hawksley/)
 * [4] [**View Components** for Bootstrap](https://github.com/dpaola2/bootstrap-viewcomponent)
 * [5] [**When is Rails 6.1 likely to be released?**](https://dev.to/robzolkos/when-is-rails-6-1-likely-to-be-released-dp2#:~:text=So%20the%20average%20days%20between,betas%20in%20the%20weeks%20prior.)
-
-[Homepage]()
+* [6] [**Research Repositoryt** in Github](https://dev.to/robzolkos/when-is-rails-6-1-likely-to-be-released-dp2#:~:text=So%20the%20average%20days%20between,betas%20in%20the%20weeks%20prior.)
+[Homepage](https://github.com/enogrob/research-rails-viewcomponents)
 
 ## Topics
 ```
